@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventoClick</string>
+    <string name="button_primero">Boton 1</string>
+    <string name="textView_segundo">Texto 02</string>
+</resources>
